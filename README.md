@@ -42,7 +42,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
@@ -92,7 +92,7 @@
             width="40" height="40" /> </a> </p>
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data</h3>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=selimcanyildizzz&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         alt="adam-pw" bg_color=#808080 /></p>
