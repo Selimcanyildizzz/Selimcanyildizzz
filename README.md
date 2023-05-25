@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selim Can Yıldız</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Front-End Developer🌟.</h3>
 
 <br>
 
