@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Selim Can Yıldız</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Hello!+My+name+is+Selim;Ceo+at+Nisanci+Software;)](https://git.io/typing-svg)
 <h3 align="center">Front-End Developer🌟.</h3>
 
 <br>
